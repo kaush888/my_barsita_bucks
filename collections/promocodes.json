@@ -1,0 +1,1 @@
+{"_id":{"$oid":"605f6a694686a820eaef093d"},"promoCode":"FLAT50","percentageOff":{"$numberInt":"50"},"created_at":{"$date":{"$numberLong":"1616865897693"}},"updated_at":{"$date":{"$numberLong":"1616865897693"}},"__v":{"$numberInt":"0"}}
