@@ -21,7 +21,7 @@ router.post("/list_coffee",auth,CoffeeController.listCoffee);
 
 /**PROMOCODE ROUTES */
 router.post("/add_promocode",auth, PromoCodeController.addPromoCode);
-router.get("/list_promocode", PromoCodeController.listPromoCode);
+router.get("/list_promocode",auth, PromoCodeController.listPromoCode);
 
 
 /**RATING ROUTES */
